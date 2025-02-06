@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="width=device-width, initial-scale=1.0">
+      <title>document</title>
+   </head>
+   <body>
+      <nav>
+         <ul>
+            <li>
+               accueil
+            </li>
+            <li>
+               <a href="/index.html">accueil</a>
+               </li>
+               <li>
+                  <a href="/series.html">series</a>
+                </li>
+                <li>
+                   <a href="/film.html">film</a>
+                <li>
+            <ul>
+      </nav>
+      <h1>
+        series
+      </h1>
+</body>
+</html>
+      
